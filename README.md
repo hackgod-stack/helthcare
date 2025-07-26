@@ -4,9 +4,15 @@
 
 ## 🎯 **Strategic Focus: Rare Disease Diagnosis**
 
-**Problem**: 300M+ people worldwide suffer from rare diseases. 95% lack FDA-approved treatments. Average diagnosis time: 7.6 years. Medical institutions can't share sensitive data for collaborative AI training.
+**The Crisis**: **300 million people globally** suffer from rare diseases, representing **3.5-5.9% of the world's population**. Despite affecting fewer than 1 in 2,000 people individually, **72% are genetic in origin** and collectively create one of healthcare's most pressing challenges.
 
-**Solution**: MedChain AI creates the world's first blockchain-native federated learning network for rare disease diagnosis, enabling hospitals to collaboratively train AI models without sharing patient data.
+**Current Diagnostic Failure**: 
+- **Average diagnosis time**: 4.7-5.6 years (women wait 5.4 years vs. 3.7 years for men)
+- **Healthcare inefficiency**: Patients consult 7.3 physicians and 8+ healthcare professionals
+- **Financial barriers**: 84.7% of physicians cite high testing costs as major obstacles
+- **Market size**: $224.30 billion in 2024, projected to reach $527.05 billion by 2034
+
+**Our Solution**: MedChain AI leverages Internet Computer's unique **on-chain AI capabilities** to create the world's first blockchain-native federated learning network for rare disease diagnosis, enabling hospitals to collaboratively train AI models without sharing patient data.
 
 ## 🚀 **Hackathon-Optimized MVP Scope**
 
@@ -28,16 +34,28 @@
 - ✅ Go-to-market partnerships
 - ✅ Investor-ready metrics dashboard
 
-## 💡 **Unique Value Propositions**
+## 💡 **ICP's Revolutionary Advantages for Healthcare AI**
+
+### **True On-Chain AI Computation**
+Unlike traditional cloud-based AI, ICP enables **AI models to run directly as smart contracts**:
+- 🔒 **Tamperproof AI Models**: Cannot be manipulated or compromised
+- ✅ **Verifiable Inference**: Every diagnosis decision is cryptographically verified and auditable
+- 🌐 **No External Dependencies**: Complete autonomy from centralized AI services
+
+### **Healthcare-Optimized Features**
+- 🔐 **Threshold ECDSA**: Secure cross-chain medical data exchange with cryptographic guarantees
+- 👤 **Internet Identity**: Face ID/fingerprint access eliminates complex wallet management
+- 💸 **Reverse Gas Model**: Hospitals and patients never pay transaction fees
+- 💾 **Massive Storage**: Up to 500GB per smart contract for comprehensive medical records
 
 ### **For Hospitals**
 - 🏥 **Collaborative AI**: Access to global rare disease knowledge without data sharing
 - 🔒 **HIPAA Compliant**: Mathematical privacy guarantees via differential privacy
-- 💰 **Cost Effective**: Shared AI development costs across network participants
+- 💰 **Cost Effective**: No cloud computing bills or server maintenance costs
 - ⚡ **Instant Deployment**: No infrastructure setup required
 
 ### **For Patients**
-- 🎯 **Faster Diagnosis**: Reduce 7.6-year average to weeks
+- 🎯 **Faster Diagnosis**: Reduce 4.7-5.6 year average to minutes
 - 🌍 **Global Expertise**: Access to worldwide medical knowledge
 - 🔐 **Privacy Protected**: Data never leaves hospital boundaries
 - 📊 **Transparent AI**: Cryptographically verifiable model integrity
@@ -88,10 +106,11 @@
 ## 📊 **Investor-Attractive Metrics**
 
 ### **Market Opportunity**
-- 🎯 **TAM**: $2.1B rare disease diagnostics market
-- 📈 **Growth**: 12.3% CAGR through 2030
-- 🏥 **Target**: 7,000+ hospitals globally treating rare diseases
-- 💰 **Revenue Model**: SaaS subscription + transaction fees
+- 🎯 **TAM**: $224.30B rare disease treatment market (2024) → $527.05B (2034)
+- 📈 **Growth**: 8.92-11.6% CAGR across market segments
+- 🏥 **US Market**: $76.93B (2024) → $184.68B (2034)
+- 🌐 **Global Impact**: 300M people affected, 30M in US alone
+- 💰 **Revenue Model**: SaaS subscription + per-diagnosis fees + API access
 
 ### **Technical Metrics**
 - ⚡ **Inference Speed**: <2 seconds on-chain
@@ -122,13 +141,20 @@
 - International expansion with regulatory compliance
 - Platform for third-party medical AI developers
 
-## 🏆 **Competitive Advantages**
+## 🏆 **Competitive Advantages vs. Traditional Solutions**
 
+### **ICP-Native Advantages Over Cloud-Based AI**
+1. **Complete Decentralization**: Unlike RareDx and other cloud solutions, operates entirely on-chain
+2. **Cryptographic Verification**: Every diagnosis step is mathematically provable
+3. **Zero Infrastructure Costs**: No cloud computing bills or server maintenance
+4. **Tamperproof Models**: AI models cannot be compromised or manipulated
+
+### **Market Position**
 1. **First-Mover**: Only blockchain-native federated learning for healthcare
-2. **Technical Moat**: Threshold-ECDSA + differential privacy combination
-3. **Network Effects**: Value increases exponentially with each hospital
-4. **Regulatory Ready**: Built-in compliance framework
-5. **ICP Native**: Leverages unique Internet Computer capabilities
+2. **Technical Moat**: Threshold-ECDSA + differential privacy + on-chain AI combination
+3. **Network Effects**: Value increases exponentially with each hospital (300M+ patient pool)
+4. **Regulatory Ready**: Built-in HIPAA/GDPR compliance framework
+5. **Blockchain AI Market**: $550.70M (2024) → $4.34B (2034) with 22.93-26.9% CAGR
 
 ## 🎯 **Success Metrics for Global Finale**
 
